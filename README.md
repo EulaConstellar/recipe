@@ -5,7 +5,7 @@ This repository contains files that pertain to the Lighthouse Labs prepwork assi
 
 Assignment 1: Recipe (Html, CSS, JS) - COMPLETE (05/15/2015);
 
-Assignment 2: FizzBuzz (Ruby) - INCOMPLETE;
+Assignment 2: FizzBuzz (JS) - COMPLETE (05/19/2015);
 
 Assignment 3: Calculator (Ruby) - COMPLETE (05/19/2015);
 
