@@ -1,4 +1,4 @@
-# recipe
+# work
 Lighthouse Prep-Work Assignments
 
 This repository contains files that pertain to the Lighthouse Labs prepwork assignments.
